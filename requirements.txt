@@ -1,0 +1,5 @@
+python-telegram-bot==21.9
+psycopg2-binary==2.9.10
+apscheduler==3.11.0
+pytz==2024.2
+tenacity==9.0.0
